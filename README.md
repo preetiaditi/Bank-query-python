@@ -1,1 +1,1 @@
-# Bank-query-python
+The project is about how we can check the status of a bank customer. Like how much money he/she has in the bank account or how much ws deducted or deposited at time it happened and so on and so forth.
